@@ -10,7 +10,7 @@ root = Tk()
 root.geometry("532x635")
 root.title("Tic Tac Toe")
 root.config(bg="black")
-root.iconphoto(False,PhotoImage(file='./icon.ico',))
+root.iconphoto(False,PhotoImage(file='./Images/icon.ico',))
 
 player = "You"
 buttons = [[0,0,0],[0,0,0],[0,0,0]]
