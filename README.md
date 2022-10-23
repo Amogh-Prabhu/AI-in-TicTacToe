@@ -1,6 +1,6 @@
 # The Unbeatable TicTacToe
 <p align="center">
-  <img src="./Images/banner.jpg" alt="Tic Tac Toe" style="height: 350px;width:100%">
+  <img src="./Images/banner.jpg" alt="Tic Tac Toe" width=100% height=350vh>
 </p>
 
 ## 📄 Description
@@ -14,14 +14,13 @@
 >
 > The minimax algorithm performs a depth-first search algorithm for the exploration of the complete game tree. The minimax algorithm proceeds all the way down to the terminal node of the tree, then backtrack the tree as the recursion.
 >
-> <hr>
+> <br>
 > <p align="center">
->   <img src="./Images/minimax.jpg" alt="Minimax Game Tree" width=50%>
+>   <img src="./Images/minimax.jpg" alt="Minimax Game Tree" style="width: 70% ">
 > </p>
-> <hr>
+> <br>
 
 ## 🎮 Game Play
-<hr>
 <table style="width:100%">
   <tr>
     <td>Draw match</td>
@@ -29,12 +28,11 @@
     <td>You Win</td>
   </tr>
   <tr>
-    <td><img src="./Images/draw.jpg" width=90%></td>
-    <td><img src="./Images/bot.jpg" width=90%></td>
-    <td><img src="./Images/impossible.jpg" width=83.5%></td>
+    <td><img src="./Images/draw.jpg" width=100%></td>
+    <td><img src="./Images/bot.jpg" width=100%></td>
+    <td><img src="./Images/impossible.jpg" width=93.5%></td>
   </tr>
 </table>
-<hr>
 
 ## 🔗 References
 - https://www.javatpoint.com/mini-max-algorithm-in-ai
