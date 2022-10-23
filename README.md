@@ -1,6 +1,6 @@
 # The Unbeatable TicTacToe
 <p align="center">
-  <img src="./Images/banner.jpg" alt="Tic Tac Toe" width=100% height=350vh>
+  <img src="./Images/banner.jpg" alt="Tic Tac Toe" width=100% height=320vw>
 </p>
 
 ## 📄 Description
