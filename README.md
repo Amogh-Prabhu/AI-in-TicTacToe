@@ -1,6 +1,6 @@
 # The Unbeatable TicTacToe
 <p align="center">
-  <img src="./Images/banner.jpg" alt="Tic Tac Toe" width=100% height=320vw>
+  <img src="https://user-images.githubusercontent.com/77154447/206404533-00ca1cf9-382b-4b86-ae8e-85686d22ce8f.jpg" alt="Tic Tac Toe" width=100%>
 </p>
 
 ## 📄 Description
@@ -16,7 +16,7 @@
 >
 > <br>
 > <p align="center">
->   <img src="./Images/minimax.jpg" alt="Minimax Game Tree" style="width: 70% ">
+>   <img src="https://user-images.githubusercontent.com/77154447/206404730-0a5273d3-6ac4-47c9-b8af-e990c3d59930.jpg" alt="Minimax Game Tree" style="width: 70% ">
 > </p>
 > <br>
 
@@ -28,9 +28,9 @@
     <td>You Win</td>
   </tr>
   <tr>
-    <td><img src="./Images/draw.jpg" width=100%></td>
-    <td><img src="./Images/bot.jpg" width=100%></td>
-    <td><img src="./Images/impossible.jpg" width=93.5%></td>
+    <td><img src="https://user-images.githubusercontent.com/77154447/206404965-0dfce51b-e1b0-4426-845c-041c4c2fef9f.jpg" width=100%></td>
+    <td><img src="https://user-images.githubusercontent.com/77154447/206405016-1228f1d2-de0d-419d-8c1c-942355e267c0.jpg" width=100%></td>
+    <td><img src="https://user-images.githubusercontent.com/77154447/206405178-615eb5cf-ad1b-46b2-a8d7-f774d1e74f50.jpg" width=93.5%></td>
   </tr>
 </table>
 
